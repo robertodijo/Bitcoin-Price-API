@@ -1,0 +1,593 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"log_",
+				"log_msg"
+			],
+			[
+				"sq",
+				"square"
+			],
+			[
+				"__",
+				"__all__"
+			],
+			[
+				"ba",
+				"balance.txt"
+			],
+			[
+				"isbn",
+				"isbnEntry〔variable〕"
+			],
+			[
+				"year",
+				"yearEntry〔variable〕"
+			],
+			[
+				"autho",
+				"authorEntry"
+			],
+			[
+				"is",
+				"isbnEntry_value〔variable〕"
+			],
+			[
+				"view",
+				"view_command〔function〕"
+			],
+			[
+				"aut",
+				"authorEntry_value〔variable〕"
+			],
+			[
+				"tit",
+				"titleEntry_value〔variable〕"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"book",
+				"books.db"
+			],
+			[
+				"list",
+				"listbox〔variable〕"
+			],
+			[
+				"isb",
+				"isbnEntry〔variable〕"
+			],
+			[
+				"text",
+				"textvariable"
+			],
+			[
+				"kge",
+				"kgEntry_value"
+			],
+			[
+				"kg",
+				"kgEntry_value"
+			],
+			[
+				"host",
+				"hosts_path〔variable〕"
+			],
+			[
+				"webs",
+				"website_list〔variable〕"
+			],
+			[
+				"pop",
+				"popup_string〔function〕"
+			],
+			[
+				"po",
+				"popup_string〔function〕"
+			],
+			[
+				"vula",
+				"vulcano_name〔variable〕"
+			],
+			[
+				"vulca",
+				"vulcano_name〔variable〕"
+			],
+			[
+				"read",
+				"readlines〔function〕"
+			],
+			[
+				"rea",
+				"readline〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 784.0,
+		"last_filter": "repl pyth",
+		"selected_items":
+		[
+			[
+				"repl pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeREPL: Python"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pep8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"new fil",
+				"ANF: New File"
+			],
+			[
+				"coment",
+				"Toggle Comment"
+			],
+			[
+				"key bind",
+				"Preferences: Key Bindings"
+			],
+			[
+				"json prin",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git st",
+				"git: status"
+			],
+			[
+				"git help",
+				"GitSavvy: help"
+			],
+			[
+				"git sett",
+				"Preferences: GitSavvy Settings"
+			],
+			[
+				"git sta",
+				"git: status"
+			],
+			[
+				"branc",
+				"git: branch"
+			],
+			[
+				"git stat",
+				"git: status"
+			],
+			[
+				"git add",
+				"git: add (edit)"
+			],
+			[
+				"git bar",
+				"git: branch"
+			],
+			[
+				"git sav",
+				"GitSavvy: help"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"about",
+				"About"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"mat",
+				"Material Theme: Configuration"
+			],
+			[
+				"mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"d",
+				"DocBlockr: Decorate line comment"
+			]
+		],
+		"width": 888.0
+	},
+	"console":
+	{
+		"height": 400.0,
+		"history":
+		[
+			"dir",
+			"dr"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/rober/githubrepos/Bitcoin-Price-API"
+	],
+	"file_history":
+	[
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/youtubescript/youtubescript.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/youtubescript/zz.txt",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/oop-Corey_Schafer/first-class-function.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/oop-Corey_Schafer/oop.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/bookstore/frontend.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/first-class-function.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/oop/oop.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/bookstore/frontend-org.py",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/account/acc.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/account/balance.txt",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/python36repl.sublime-build",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/balance.txt",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/acc.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/backend.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/frontend.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section16/backend.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section16/frontend.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section15/database_section/database_credentials.txt",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section15/database_section/script1.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section15/database_section/script2.py",
+		"/C/Program Files/Python36/Lib/sqlite3/__init__.py",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section14/tkinter_section/km_convertor.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section14/tkinter_section/script1.py",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/mysite/demo/templates/about.html",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/mysite/demo/static/css/main.css",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/mysite/demo/runtime.txt",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/mysite/demo/Procfile",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/mysite/demo/templates/home.html",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/mysite/script1.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/mysite/templates/home.html",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/templates/home.html",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/templates/about.html",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/templates/layout.html",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/script1.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section12/hosts",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section12/website-blocker.pyw",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section9/section11/map1.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/translator/app.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/translator/app1.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/translator/data.json",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/myprogram.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/cel_to_fah.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/c_to_f_writer.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/temp.txt",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/mergefiles.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/fileread.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/loopfunc.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/writelines.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/stringlen.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/2017-12-27-17-58-39-830038.txt",
+		"/C/Users/rober/odrive/amazoncloud/Pictures/ebay-templates/mobile responsive.html",
+		"/C/Users/rober/odrive/server-external/scrapybook/amazon/amazon/spiders/AmazonProductSpider.py",
+		"/P/scrapybook/amazon/amazon/items.py",
+		"/C/Users/rober/odrive/server-external/scrapybook/amazon/amazon/items.py",
+		"/C/Users/rober/odrive/server-external/scrapybook/properties/properties/todo.ebay_urls.txt",
+		"/C/Users/rober/odrive/server-external/scrapybook/properties/properties/11.json",
+		"/C/Users/rober/odrive/server-external/scrapybook/properties/properties/settings.py",
+		"/C/Users/rober/odrive/server-external/scrapybook/properties/properties/items_ebay.py",
+		"/C/Users/rober/odrive/server-external/scrapybook/properties/properties/spiders/ebay_item.py",
+		"/C/Users/rober/odrive/server-external/scrapybook/properties/properties/11.csv",
+		"/C/Users/rober/githubrepos/shopifyAruyudeals/templates/bigsale.html",
+		"/C/Users/rober/githubrepos/shopifyAruyudeals/templates/bigsale-shopify.liquid",
+		"/C/Users/rober/githubrepos/shopifyAruyudeals/templates/bigsale-shopify.html",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/C/scrapybook/properties/properties/items_ebay.py",
+		"/C/scrapybook/properties/properties/spiders/ebay_item.py",
+		"/C/scrapybook/properties/properties/spiders/ebay_easy.py",
+		"/C/scrapybook/properties/properties/tomobile-log-bad.txt",
+		"/C/scrapybook/properties/properties/spiders/easy.py",
+		"/C/scrapybook/properties/properties/spiders/tomobile.py",
+		"/C/scrapybook/ch04/properties/properties/settings.py",
+		"/C/scrapybook/properties/properties/settings.py",
+		"/C/scrapybook/properties/properties/tomobile-log-okay.txt",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/scrapybook/ch03/properties/properties/spiders/easy.py",
+		"/C/scrapybook/properties/properties/spiders/manual.py",
+		"/C/scrapybook/properties/properties/todo.ebay_urls.txt",
+		"/C/scrapybook/ch03/properties/properties/spiders/basic.py",
+		"/C/scrapybook/properties/properties/ebay_item.json",
+		"/C/scrapybook/properties/properties/items_ebay_xpath.txt",
+		"/C/scrapybook/properties/properties/items.py",
+		"/C/scrapybook/properties/properties/spiders/basic.py",
+		"/C/scrapybook/ch03/properties/properties/spiders/manual.py",
+		"/C/scrapybook/properties/items.json",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+		"/C/scrapybook/properties/properties/spiders/aliexpress_bestselling.py",
+		"/C/scrapybook/Vagrantfile",
+		"/C/scrapybook/Vagrantfile.dockerhost",
+		"/C/scrapybook/Vagrantfile.dockerhost.src",
+		"/C/scrapybook/properties/properties/spiders/ebay_daily_deals.py",
+		"/C/Users/rober/githubrepos/sublimetext4python/example-file.txt",
+		"/C/Users/rober/githubrepos/sublimetext4python/setting_up_python_dev_env.txt",
+		"/C/scrapybook/test-module.py",
+		"/C/scrapybook/setting_up_python_dev_env.txt",
+		"/C/scrapybook/.gitattributes",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"emp_1",
+			"get_selected_row",
+			"get_seleted_row",
+			"listbox",
+			"backend",
+			"Database",
+			"backend",
+			"StringValue",
+			"db1",
+			"lite.db",
+			"sqlite3",
+			"dot",
+			">\n",
+			"pagina",
+			">\n",
+			"proxy",
+			"push",
+			"cat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self.listbox",
+			"database",
+			"Database",
+			"StringVar",
+			"database1",
+			"dbname='db1' user='postgres' password='postgresql1234' host='localhost' port='5432'",
+			"psycopg2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 49.0
+	},
+	"input":
+	{
+		"height": 136.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 185.0
+	},
+	"output.exec":
+	{
+		"height": 433.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "bitcoin-price.sublime-project",
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fron",
+				"section17\\Demo\\frontend.py"
+			],
+			[
+				"bac",
+				"section17\\Demo\\backend.py"
+			],
+			[
+				"alie",
+				"properties\\properties\\spiders\\aliexpress_bestselling.py"
+			],
+			[
+				"set",
+				"setting_up_python_dev_env.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 524.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
