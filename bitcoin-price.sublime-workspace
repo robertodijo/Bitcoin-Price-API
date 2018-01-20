@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"y",
+				"yaxis"
+			],
+			[
+				"cont",
+				"contourArea\tfunction"
+			],
+			[
+				"thres",
+				"threshold_frame\tstatement"
+			],
+			[
+				"thre",
+				"threshold_frame\tstatement"
+			],
+			[
+				"chain_",
+				"CHAIN_APPROX_SIMPLE\tinstance"
+			],
+			[
+				"retr",
+				"RETR_EXTERNAL\tinstance"
+			],
+			[
+				"color_",
+				"COLOR_BGR2GRAY\tinstance"
+			],
+			[
+				"res",
+				"resized_img\tstatement"
+			],
+			[
+				"spl",
+				"split\tfunction"
+			],
+			[
+				"destroy",
+				"destroyAllWindows\tfunction"
+			],
+			[
+				"prin",
+				"print_h1"
+			],
+			[
 				"log_",
 				"log_msg"
 			],
@@ -116,6 +160,23 @@
 			"settings":
 			{
 				"buffer_size": 575,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "import_trades.py",
+			"settings":
+			{
+				"buffer_size": 257,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "IBM_aandelen/app.py",
+			"settings":
+			{
+				"buffer_size": 698,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -148,10 +209,54 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 784.0,
-		"last_filter": "repl pyth",
+		"height": 760.0,
+		"last_filter": "bran",
 		"selected_items":
 		[
+			[
+				"bran",
+				"git: branch"
+			],
+			[
+				"git",
+				"git: status"
+			],
+			[
+				"git comm",
+				"git: commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Build With: Python"
+			],
+			[
+				"virtua",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"status",
+				"git: status"
+			],
+			[
+				"branc",
+				"git: branch"
+			],
+			[
+				"git add",
+				"git: add (edit)"
+			],
+			[
+				"git com",
+				"git: commit"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
 			[
 				"repl pyth",
 				"SublimeREPL: Python"
@@ -162,14 +267,6 @@
 			],
 			[
 				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"remove",
-				"Package Control: Remove Package"
-			],
-			[
-				"install",
 				"Package Control: Install Package"
 			],
 			[
@@ -237,16 +334,8 @@
 				"git: status"
 			],
 			[
-				"branc",
-				"git: branch"
-			],
-			[
 				"git stat",
 				"git: status"
-			],
-			[
-				"git add",
-				"git: add (edit)"
 			],
 			[
 				"git bar",
@@ -289,13 +378,20 @@
 				"DocBlockr: Decorate line comment"
 			]
 		],
-		"width": 888.0
+		"width": 952.0
 	},
 	"console":
 	{
 		"height": 400.0,
 		"history":
 		[
+			"help()",
+			"?",
+			";",
+			"2+3",
+			"version()",
+			"exit",
+			"help()",
 			"dir",
 			"dr"
 		]
@@ -311,15 +407,36 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/rober/githubrepos/Bitcoin-Price-API"
+		"/C/Users/rober/githubrepos/crypto/Bitcoin-Price-API",
+		"/C/Users/rober/githubrepos/crypto/Bitcoin-Price-API/IBM_aandelen"
 	],
 	"file_history":
 	[
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/rober/githubrepos/flask_pandas_bokeh/app.py",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section20/script1.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section20/temp_pressure_org.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section20/temp_pressure.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section20/script_plotting.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section20/Scatter_plotting.html",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section19/script1.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section18/capture.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section18/script1.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section18/resize_image.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section18/resized_images_lecture.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section18/face_detection.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section18/galaxy_resized.jpg",
+		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/bookstore/frontend.py",
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/youtubescript/youtubescript.py",
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/youtubescript/zz.txt",
-		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/oop-Corey_Schafer/first-class-function.py",
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/oop-Corey_Schafer/oop.py",
-		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/bookstore/frontend.py",
+		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/oop-Corey_Schafer/first-class-function.py",
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/first-class-function.py",
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/oop/oop.py",
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/bookstore/frontend-org.py",
@@ -327,8 +444,6 @@
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/account/acc.py",
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/account/balance.txt",
 		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/python36repl.sublime-build",
-		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
-		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
 		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
 		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/section17/Demo/balance.txt",
@@ -345,8 +460,6 @@
 		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/section14/tkinter_section/km_convertor.py",
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/section14/tkinter_section/script1.py",
-		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
-		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/mysite/demo/templates/about.html",
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/mysite/demo/static/css/main.css",
 		"/C/Users/rober/githubrepos/python-mega-course-udemy/section13/mysite/demo/runtime.txt",
@@ -399,8 +512,6 @@
 		"/C/scrapybook/ch04/properties/properties/settings.py",
 		"/C/scrapybook/properties/properties/settings.py",
 		"/C/scrapybook/properties/properties/tomobile-log-okay.txt",
-		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
-		"/C/Users/rober/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
 		"/C/scrapybook/ch03/properties/properties/spiders/easy.py",
 		"/C/scrapybook/properties/properties/spiders/manual.py",
 		"/C/scrapybook/properties/properties/todo.ebay_urls.txt",
@@ -428,7 +539,7 @@
 	],
 	"find":
 	{
-		"height": 49.0
+		"height": 52.0
 	},
 	"find_in_files":
 	{
@@ -442,6 +553,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"text",
+			"title_",
+			"title",
+			"title.",
+			"title",
+			", ",
 			"emp_1",
 			"get_selected_row",
 			"get_seleted_row",
@@ -484,7 +601,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -500,8 +617,8 @@
 						"selection":
 						[
 							[
-								559,
-								559
+								575,
+								575
 							]
 						],
 						"settings":
@@ -525,6 +642,21 @@
 							},
 							"bracket_highlighter.clone_regions":
 							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -535,51 +667,36 @@
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"bracket_highlighter.locations":
 							{
@@ -598,6 +715,21 @@
 							},
 							"bracket_highlighter.regions":
 							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -608,21 +740,330 @@
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"git_savvy.repo_path": "C:\\Users\\rober\\githubrepos\\Bitcoin-Price-API",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "import_trades.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								257,
+								257
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"git_savvy.repo_path": "C:\\Users\\rober\\githubrepos\\Bitcoin-Price-API",
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "IBM_aandelen/app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								698
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										638,
+										639
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										634,
+										635
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -633,33 +1074,110 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
-								"bh_curly_content"
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
 							],
-							"git_gutter_is_enabled": true,
-							"git_savvy.repo_path": "C:\\Users\\rober\\githubrepos\\Bitcoin-Price-API",
+							"open_with_edit": true,
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 47.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -670,7 +1188,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 49.0
+		"height": 52.0
 	},
 	"input":
 	{
@@ -705,7 +1223,7 @@
 	},
 	"output.exec":
 	{
-		"height": 433.0
+		"height": 646.0
 	},
 	"output.find_results":
 	{
@@ -715,11 +1233,15 @@
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"output.show_commit_info":
+	{
+		"height": 224.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
 	"project": "bitcoin-price.sublime-project",
 	"replace":
 	{
-		"height": 90.0
+		"height": 96.0
 	},
 	"save_all_on_build": true,
 	"select_file":
